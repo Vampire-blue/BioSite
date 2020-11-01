@@ -7,8 +7,10 @@ My Name is Blue, I am a 19 year old australian biohacker and game development st
 
 There is alot of definitions of a biohacker/Biohacking but the dictionary states biohacking as:
 ```markdown
-bio·​hack·​ing | \ ˈbī-ō-ˌha-kiŋ  \
-biological experimentation (as by gene editing or the use of drugs or implants) done to improve the qualities or capabilities of living organisms especially by individuals and groups working outside a traditional medical or scientific research environment
+bio·hack·ing | \ ˈbī-ō-ˌha-kiŋ \
+biological experimentation (as by gene editing or the use of drugs or implants) 
+done to improve the qualities or capabilities of living organisms especially 
+by individuals and groups working outside a traditional medical or scientific research environment
 ```
 
 
