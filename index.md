@@ -29,7 +29,7 @@ Now you can see it mentions Genes Drugs and implants, I am on the implant side. 
    * (Aka Between Left Thumb and pointer finger)
  * Use: Due to the next being a dual chip i use:
    * Rfid Side: Unlock My pc,Cupoard door and work door
-   * Nfc Side: This website and sometimes [This] (https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3)
+   * Nfc Side: This website and sometimes [This](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3)
  * Fun Fact: This implant is a dual chip, half Nfc and half Rfid. This allows me to use my chip in multiple use cases and saves space in my hand (2 for 1!)
 
 ### Jekyll Themes
