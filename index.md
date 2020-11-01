@@ -20,6 +20,8 @@ Now you can see it mentions Genes Drugs and implants, I am on the implant side. 
 
 ## My Implants
 
+<br/><br/>
+ 
 ### The NExT
 
  * Implanted on: 24/12/19
