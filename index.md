@@ -22,9 +22,9 @@ Now you can see it mentions Genes Drugs and implants, I am on the implant side. 
 
 ### NExT
 
--Implanted on: 24/12/19
+ -Implanted on: 24/12/19
 
--Implanted By: [Piercing HQ Melbourne](https://www.piercinghq.com.au/)
+ -Implanted By: [Piercing HQ Melbourne](https://www.piercinghq.com.au/)
   -Peircer: Paulus Van Nes 
 
 ### Jekyll Themes
