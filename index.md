@@ -20,17 +20,26 @@ Now you can see it mentions Genes Drugs and implants, I am on the implant side. 
 
 ## My Implants
 
-### NExT
+### The NExT
 
  * Implanted on: 24/12/19
  * Implanted By: [Piercing HQ Melbourne](https://www.piercinghq.com.au/)
    * Peircer: Paulus Van Nes
  * Location: L1 Hand
    * (Aka Between Left Thumb and pointer finger)
- * Use: Due to the next being a dual chip i use:
+ * Use: Due to the NExT being a dual chip i use:
    * Rfid Side: Unlock My pc,Cupoard door and work door
    * Nfc Side: This website and sometimes [This](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3)
  * Fun Fact: This implant is a dual chip, half Nfc and half Rfid. This allows me to use my chip in multiple use cases and saves space in my hand (2 for 1!)
+ <br/><br/>
+ ### The Magic Flex **(Custom)**
+ * Implanted on: ***Yet To Be Implanted***
+ * Implanted By: [Piercing HQ Melbourne](https://www.piercinghq.com.au/)
+   * Peircer: Paulus Van Nes
+ * Location: Ontop of Left Hand
+ * Use: This implant will be able to open my doors at school
+   * Also Just for show due to the LEDs
+ * Fun Fact: This is a custom implant, Dangerous things makes 2 diffrent flex implants that include LED "Blinkies" The [FlexMT](https://dangerousthings.com/product/flexmt/) and The [FlexNExT](https://dangerousthings.com/product/flexnext/). I didn't need to get somthing like the FlexNExT because i allredy have the capsule version, but the FlexMT only fits 2 LEDs unlike the 3 in the FlexNExT. This was an issue as i would be forever annoyed at the asymmetry of 2 LEDs vs 3. So i was able to get a custom FlexMT without the T5577 chip, giving the implat space to add a third LED "Blinkie". Due to it not being an MT anymore you would think i would call it a FlexM1 (M1 meaning magic 1k (The chip type)) but the FlexM1 is allredy a diffrent implant alltogether, so the Magic Flex was born!
 
 ### Jekyll Themes
 
