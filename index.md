@@ -15,7 +15,7 @@ done to improve the qualities or capabilities of living organisms especially
 by individuals and groups working outside a traditional medical or scientific research environment
 ```
 
-Now you can see it mentions Genes Drugs and implants, I am on the implant side. I do belive in domestic bettering of the human race without the help of more traditional means. "Avoiding the red tape" if you will. But that dosn't mean i do not belive in traditional medicine, there are some "biohackers" that work entirly in diets and other sudo science that i am very sceptical of. I am what they call a grinder, a biohacking Sub-Genre that works mostly in electronics and implants.
+Now you can see it mentions Genes, Drugs and implants, I am on the implant side. I do belive in domestic bettering of the human race without the help of more traditional means. "Avoiding the red tape" if you will. But that dosn't mean i do not belive in traditional medicine, there are some "biohackers" that work entirly in diets and other sudo science that i am very sceptical of. I am what they call a grinder, a biohacking Sub-Genre that works mostly in electronics and implants.
 
 
 ## My Implants
