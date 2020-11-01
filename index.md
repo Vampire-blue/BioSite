@@ -1,30 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/Vampire-blue/BioSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome! If you are here you must be intrested in my implants, or you just scanned my hand... Either way, Welcome!
+My Name is Blue, I am a 19 year old australian biohacker and game development student.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is a biohacker?
 
-### Markdown 3
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+There is alot of definitions of a biohacker/Biohacking but the dictionary states biohacking as:
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+bio·​hack·​ing | \ ˈbī-ō-ˌha-kiŋ  \
+biological experimentation (as by gene editing or the use of drugs or implants) done to improve the qualities or capabilities of living organisms especially by individuals and groups working outside a traditional medical or scientific research environment
 ```
+
+
+
+Now you can see it mentions Genes Drugs and implants, I am on the implant side. I do belive in domestic bettering of the human race without the help of more traditional means. "Avoiding the red tape" if you will.
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
