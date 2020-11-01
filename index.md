@@ -1,11 +1,8 @@
 ## Welcome!
 
-Welcome! If you are here you must be intrested in my implants, or you just scanned my hand and now you are here not by choice... Either way, Welcome!
+Welcome! If you are here you must be intrested in my implants, 
+or you just scanned my hand and now you are here not by choice... Either way, Welcome!
 My Name is Blue, I am a 19 year old australian biohacker and game development student.
-
-<br/>
-
-<br/>
 
 ### What is a biohacker?
 
